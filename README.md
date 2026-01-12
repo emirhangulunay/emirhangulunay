@@ -1,5 +1,5 @@
 # Emirhan GÜLÜNAY  
-**DS & ML Intern | AI & Embedded Systems Developer**
+**AI & Embedded Systems Developer**
 
 📍 Istanbul, Türkiye  
 📧 emirhangulunay@outlook.com  
