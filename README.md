@@ -1,9 +1,7 @@
 Hello, my name is Emirhan.
 
 
-
 Building intelligent systems at the intersection of AI and Embedded Technologies.
-
 
 
 ⚙️ I develop smart, efficient and deployable AI solutions for embedded platforms.  
@@ -12,15 +10,7 @@ Building intelligent systems at the intersection of AI and Embedded Technologies
 
 📚 Always improving myself in Deep Learning, system optimization and low-level software development.  
 
-
-
 ---
-
-
-
-\### Languages
-
-
 
 <p align="left">
 
@@ -34,18 +24,10 @@ Building intelligent systems at the intersection of AI and Embedded Technologies
 
 </p>
 
-
-
 ---
 
-
-
-\### Other Experience
-
-
-
+🖤Other Experience
 🌐 Web development  
-
 🖥️ Desktop application development
 
 
