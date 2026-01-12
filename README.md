@@ -27,6 +27,7 @@ Building intelligent systems at the intersection of AI and Embedded Technologies
 ---
 
 🖤Other Experience
+
 🌐 Web development  
 🖥️ Desktop application development
 
