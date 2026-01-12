@@ -88,12 +88,11 @@ Computer Programming (2024 – Present)
 ---
 
 ## 🌍 Languages  
-- English — C1  
-
+- English — C1 
 ---
 
 ## 📜 Certificates & Training  
-
+- English — C1 — American Culture Language Schools
 - Keras ile Derin Öğrenme Algoritmaları — BTK  
 - Veri Bilimi için Python & TensorFlow — BTK  
 - Python ile Makine Öğrenmesi — BTK  
