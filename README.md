@@ -85,3 +85,22 @@ Computer Programming (2024 – Present)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>
 </p>
 
+
+---
+
+## 📜 Certificates & Training  
+- English — C1 — American Culture Language Schools
+- Keras ile Derin Öğrenme Algoritmaları — BTK  
+- Veri Bilimi için Python & TensorFlow — BTK  
+- Python ile Makine Öğrenmesi — BTK  
+- C++ ile Programlamaya Giriş — BTK  
+- C Programlama Dili — BTK  
+- SQL Server — BTK  
+- Git & GitHub — BTK  
+- HTML5 & Web Geliştirme — BTK  
+- JavaScript Temelleri — BTK  
+
+---
+
+## 🎯 Interests  
+Literature • Poetry • Philosophy • Kickboxing • Finance • Art • Psychology  
