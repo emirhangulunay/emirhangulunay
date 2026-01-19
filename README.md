@@ -2,6 +2,7 @@
 **AI & Embedded Systems Developer**
 
 📍 🇹🇷 Istanbul
+
 📧 emirhangulunay@outlook.com  
 🌐 https://emirhangulunay.software  
 🔗 [LinkedIn](https://linkedin.com/in/emirhangulunay)  
