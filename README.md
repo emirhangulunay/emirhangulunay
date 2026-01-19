@@ -1,7 +1,6 @@
 # Emirhan GÜLÜNAY  
 **AI & Embedded Systems Developer**
-
-📍 🇹🇷 Istanbul
+🇹🇷 Istanbul
 
 📧 emirhangulunay@outlook.com  
 🌐 https://emirhangulunay.software  
