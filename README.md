@@ -24,7 +24,8 @@ Computer Programming (2024 – Present)
 
 - **DS & ML Intern – NetCare Sağlık Bilişim (2025)**  
 - **Alzheimer MRI Classification with Keras**  
-- **YOLOv8 Deployment from Python to C++ (Defense AI)**  
+- **YOLOv8 Deployment from Python to C++ (Defense AI)**
+- **File Analysis System for AI Models**
 - **Pet Care & Tracking Web + Desktop Application**
 
 ---
