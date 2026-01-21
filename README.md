@@ -11,8 +11,6 @@
 ## 🧠 About Me  
 I am a Computer Programming student focused on building intelligent systems by combining  
 **Artificial Intelligence** and **Embedded Technologies**.  
-My goal is to transform academic knowledge into real-world, production-ready solutions.
-
 ---
 
 ## 🎓 Education  
