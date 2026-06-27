@@ -15,8 +15,8 @@ I am a Computer Programming student focused on building intelligent systems by c
 
 ## 🎓 Education  
 **Istanbul Medipol University – Vocational School**  
-Computer Programming (2024 – Present)  
-**GPA:** 3.65 / 4.00  
+Computer Programming (2024 – 2026)  
+**GPA:** 3.66 / 4.00  
 
 ---
 
